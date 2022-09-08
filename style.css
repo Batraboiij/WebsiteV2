@@ -1,0 +1,106 @@
+#menu{
+    list-style: none;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    position: fixed;
+    
+}
+
+.list{
+    float: left;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+
+
+}
+
+.list:hover{
+    background-color:burlywood;
+}
+
+body{
+    text-align:center;
+    padding-top:100px;
+}
+
+#bannerfish{
+    border-style:solid;
+    border-radius:2.5%;
+    width: 1500px;
+    border-color:#41414d;
+}
+
+img{
+    border-style:solid;
+    border-radius:5%;
+    width: 500px;
+   border-color:#41414d;
+}
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    font-size: 25px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+#contact iframe{
+    width:100%;
+}
+
+#contact1 a{
+    color:crimson;
+}
+
+#contact h3{
+    display:inline;
+}
+
+#contact{
+    background-color:floralwhite;
+}
+
+#menu a{
+    text-decoration:none;
+    color:rgb(86, 86, 86);
+}
+
+#minecraft{
+    padding:10px;
+    border-style:none
+}
+
+#madfut{
+    
+    border-style:none;
+    height:700px;
+    width:auto;
+
+}
+
+#basketballnext{
+    padding:10px;
+    border-style:solid;
+    background-color:lightgrey;
+    font-size:20px;
+    font-family:sans-serif;
+    border-radius:4px;
+    
+}
+
+#entrytext{
+    font-size:40px;
+    
+}
+
+.entry{
+    width:1000px;
+    padding-left:460px;
+    
+}
